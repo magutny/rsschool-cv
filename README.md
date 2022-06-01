@@ -1,1 +1,1 @@
-https://magutny.github.io/rsschool-cv/cv
+https://magutny.github.io/rsschool-cv/
