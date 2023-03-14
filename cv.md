@@ -17,3 +17,11 @@ function repeatStr (n, s) {
   return sum;
 }
 ```
+## Education
+* Grodno State Agrarian University:
+    - Technology of storage and processing of plant raw materials;
+* Learn HTML and CSS on MDN Web Docs.
+## Languages
+* Belarusian - native speaker;
+* Russian - native speaker;
+* English - A1.
